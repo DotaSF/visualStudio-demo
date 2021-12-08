@@ -1,0 +1,9 @@
+D:\vs2015程序\上位机程序\上位机程序\bin\Debug\上位机程序.exe.config
+D:\vs2015程序\上位机程序\上位机程序\bin\Debug\上位机程序.exe
+D:\vs2015程序\上位机程序\上位机程序\bin\Debug\上位机程序.pdb
+D:\vs2015程序\上位机程序\上位机程序\obj\Debug\上位机程序.csprojResolveAssemblyReference.cache
+D:\vs2015程序\上位机程序\上位机程序\obj\Debug\上位机程序.Form1.resources
+D:\vs2015程序\上位机程序\上位机程序\obj\Debug\上位机程序.Properties.Resources.resources
+D:\vs2015程序\上位机程序\上位机程序\obj\Debug\上位机程序.csproj.GenerateResource.Cache
+D:\vs2015程序\上位机程序\上位机程序\obj\Debug\上位机程序.exe
+D:\vs2015程序\上位机程序\上位机程序\obj\Debug\上位机程序.pdb

@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\vs2015程序\2m_biaoding\2m_biaoding\main.cpp(93): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  2m_biaoding.vcxproj -> D:\vs2015程序\2m_biaoding\x64\Debug\2m_biaoding.exe
+  2m_biaoding.vcxproj -> D:\vs2015程序\2m_biaoding\x64\Debug\2m_biaoding.pdb (Full PDB)

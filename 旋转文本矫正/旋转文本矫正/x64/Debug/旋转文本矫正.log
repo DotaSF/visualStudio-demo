@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\vs2015程序\旋转文本矫正\旋转文本矫正\main.cpp(91): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\vs2015程序\旋转文本矫正\旋转文本矫正\main.cpp(99): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\vs2015程序\旋转文本矫正\旋转文本矫正\main.cpp(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vs2015程序\旋转文本矫正\旋转文本矫正\main.cpp(104): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  旋转文本矫正.vcxproj -> D:\vs2015程序\旋转文本矫正\x64\Debug\旋转文本矫正.exe
+  旋转文本矫正.vcxproj -> D:\vs2015程序\旋转文本矫正\x64\Debug\旋转文本矫正.pdb (Full PDB)
